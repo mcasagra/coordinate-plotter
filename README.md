@@ -1,2 +1,2 @@
 # coordinate-plotter
-Map plotter for coordinates
+Coordinates plotter
